@@ -1,0 +1,3 @@
+[submodule "kiprefon_ped_sept"]
+	path = kiprefon_ped_sept
+	url = git@github.com:dmatkulov/kiprefon_ped_sept.git
